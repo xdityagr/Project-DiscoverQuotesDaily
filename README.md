@@ -59,15 +59,15 @@ DiscoverQuotesDaily Bot is a Python-based bot that generates and posts inspirati
     Start the bot using:
 
     ```bash
-    python discoverquotebot.py
+    python DiscoverQuoteBot.py
     ```
 
 ## Code Overview
 
-- **discoverquotebot.py**: Main script that runs the bot, schedules daily posts, and handles image generation and Twitter posting.
+- **DiscoverQuoteBot.py**: Main script that runs the bot, schedules daily posts, and handles image generation and Twitter posting.
 - **bot_utils.py**: Contains utility classes for interacting with the Quotable API, generating quote images, and posting to Twitter.
 
-### `discoverquotebot.py`
+### `DiscoverQuoteBot.py`
 
 The main function `daily_post_loop` fetches a quote, generates an image with the quote, saves it, and posts it to Twitter. The bot is scheduled to run this function daily.
 
