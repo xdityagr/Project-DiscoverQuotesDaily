@@ -1,5 +1,5 @@
 """
-Submittion for Design Championship [Coding] - DiscoverQuotesDaily: 
+DiscoverQuotesDaily :
 A powerful bot equipped with a huge collection of quotes
 from various influential people from around the glove,
 spreading them through beautiful generated images on Twitter (@discoverdaily_q).
