@@ -96,11 +96,6 @@ If you want to contribute to DiscoverQuoteBot, please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Quotable API for providing the quotes.
-- Pillow library for image generation.
-- Tweepy for Twitter API integration.
 
 ## Contact
 
