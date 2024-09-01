@@ -46,11 +46,15 @@ DiscoverQuotesDaily Bot is a Python-based bot that generates and posts inspirati
     - **Twitter API**: Create a `twitterCredentials.json` file in the root directory with the following structure:
 
       ```json
+
       {
-          "api_key": "YOUR_API_KEY",
-          "api_key_secret": "YOUR_API_KEY_SECRET",
-          "access_token": "YOUR_ACCESS_TOKEN",
-          "access_token_secret": "YOUR_ACCESS_TOKEN_SECRET"
+        "access_token" : "YOUR_ACCESS_TOKEN",
+        "access_token_secret" : "YOUR_ACCESS_TOKEN_SECRET",
+        "bearer_token": "YOUR_BEARER_TOKEN_SECRET",
+        "api_key":"YOUR_API_KEY",
+        "api_key_secret":"YOUR_API_KEY_SECRET",
+        "client_id":"YOUR_CLIENT_ID",
+        "client_secret":"YOUR_CLIENT_SECRET"
       }
       ```
 
