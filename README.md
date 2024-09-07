@@ -1,3 +1,6 @@
+![Alt text](https://github.com/xdityagr/Project-DiscoverQuotesDaily/blob/main/banner_DiscoverQuotesDaily.png?raw=true "Banner Image")
+
+
 # DiscoverQuotesDaily Bot
 
 DiscoverQuotesDaily Bot is a Python-based bot that generates and posts inspirational quotes daily on Twitter. It can fetch quotes from various categories and generate visually appealing images featuring these quotes. The bot schedules daily posts and interacts with the Twitter API to share the generated images.
