@@ -98,7 +98,7 @@ If you want to contribute to DiscoverQuoteBot, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL License. See the [LICENSE](LICENSE) file for details.
 
 
 ## Contact
@@ -107,3 +107,5 @@ For questions or feedback, please contact:
 
 - **Email**: adityagaur.home@gmail.com
 - **GitHub**: [xdityagr](https://github.com/xdityagr)
+
+Enjoy using **DiscoverQuotesDaily!** Made with _<3_ In **India!**
