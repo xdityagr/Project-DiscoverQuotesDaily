@@ -12,11 +12,20 @@ DiscoverQuotesDaily Bot is a Python-based bot that generates and posts inspirati
 - **Image Generation**: Creates images with quotes using the Pillow library.
 - **Twitter Integration**: Posts images and quotes on Twitter using Tweepy.
 
+## Outputs 
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/xdityagr/Project-DiscoverQuotesDaily/main/outputs/image-1.png" width="45%">
+    <img src="https://raw.githubusercontent.com/xdityagr/Project-DiscoverQuotesDaily/main/outputs/image-2.png" width="45%">
+    <img src="https://raw.githubusercontent.com/xdityagr/Project-DiscoverQuotesDaily/main/outputs/image-3.png" width="45%">
+    <img src="https://raw.githubusercontent.com/xdityagr/Project-DiscoverQuotesDaily/main/outputs/image-4.png" width="45%">
+</div>
+
 ## Installation
 
 ### Prerequisites
 
-- Python 3.6 or higher
+- Python 3.6 to 3.8
 - pip (Python package installer)
 
 ### Steps
