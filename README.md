@@ -33,7 +33,7 @@ DiscoverQuotesDaily Bot is a Python-based bot that generates and posts inspirati
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/DiscoverQuoteBot.git
+    git clone https://github.com/xdityagr/DiscoverQuoteBot.git
     cd DiscoverQuoteBot
     ```
 
